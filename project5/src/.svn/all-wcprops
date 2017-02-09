@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/azepeda2/!svn/ver/202/cs212/project5/src
+END
+DatabaseConfigurator.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/azepeda2/!svn/ver/202/cs212/project5/src/DatabaseConfigurator.java
+END
+SearchServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/azepeda2/!svn/ver/203/cs212/project5/src/SearchServer.java
+END
+RedirectServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/azepeda2/!svn/ver/202/cs212/project5/src/RedirectServlet.java
+END
+Driver.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/azepeda2/!svn/ver/202/cs212/project5/src/Driver.java
+END
+MultiReaderLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/azepeda2/!svn/ver/202/cs212/project5/src/MultiReaderLock.java
+END
+LoginDatabaseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/azepeda2/!svn/ver/202/cs212/project5/src/LoginDatabaseHandler.java
+END
+SearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/azepeda2/!svn/ver/202/cs212/project5/src/SearchResult.java
+END
+WebCrawler.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/azepeda2/!svn/ver/202/cs212/project5/src/WebCrawler.java
+END
+WorkQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/azepeda2/!svn/ver/202/cs212/project5/src/WorkQueue.java
+END
+AccountMaintenanceServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/azepeda2/!svn/ver/202/cs212/project5/src/AccountMaintenanceServlet.java
+END
+InvertedIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/azepeda2/!svn/ver/202/cs212/project5/src/InvertedIndex.java
+END
+SearchServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/azepeda2/!svn/ver/202/cs212/project5/src/SearchServlet.java
+END
+ArgumentParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/azepeda2/!svn/ver/202/cs212/project5/src/ArgumentParser.java
+END
+FileParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/azepeda2/!svn/ver/202/cs212/project5/src/FileParser.java
+END
+LoginRegisterServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/azepeda2/!svn/ver/202/cs212/project5/src/LoginRegisterServlet.java
+END
+SearchInvertedIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/azepeda2/!svn/ver/202/cs212/project5/src/SearchInvertedIndex.java
+END
+BaseServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/azepeda2/!svn/ver/202/cs212/project5/src/BaseServlet.java
+END
+DirectoryTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/azepeda2/!svn/ver/202/cs212/project5/src/DirectoryTraverser.java
+END
+Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/azepeda2/!svn/ver/202/cs212/project5/src/Status.java
+END
+HistoryServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/azepeda2/!svn/ver/202/cs212/project5/src/HistoryServlet.java
+END
+LoginUserServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/azepeda2/!svn/ver/204/cs212/project5/src/LoginUserServlet.java
+END

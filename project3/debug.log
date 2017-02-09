@@ -1,0 +1,346 @@
+[DEBUG] WorkQueue$PoolWorker.run() : Waiting for work...
+[DEBUG] WorkQueue.<init>() : WorkQueue initialized with 5 threads.
+[DEBUG] WorkQueue$PoolWorker.run() : Waiting for work...
+[DEBUG] WorkQueue$PoolWorker.run() : Waiting for work...
+[DEBUG] WorkQueue$PoolWorker.run() : Waiting for work...
+[DEBUG] WorkQueue$PoolWorker.run() : Waiting for work...
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] FileParser.parseFiles() : Still working on file parsing...
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] FileParser$FileParserWorker.run() : Starting to parse "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\cases\digits.txt"
+[DEBUG] FileParser$FileParserWorker.run() : Starting to parse "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\cases\empty.txt"
+[DEBUG] FileParser$FileParserWorker.run() : Starting to parse "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\cases\position.txt"
+[DEBUG] FileParser$FileParserWorker.run() : Starting to parse "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\cases\capitals.txt"
+[DEBUG] FileParser$FileParserWorker.run() : Starting to parse "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\cases\capital_extension.TXT"
+[DEBUG] FileParser$FileParserWorker.run() : Finished parsing "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\cases\empty.txt"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] FileParser$FileParserWorker.run() : Starting to parse "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\cases\symbols.txt"
+[DEBUG] FileParser$FileParserWorker.run() : Finished parsing "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\cases\capital_extension.TXT"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] FileParser$FileParserWorker.run() : Starting to parse "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\extended\pg11.txt"
+[DEBUG] FileParser$FileParserWorker.run() : Finished parsing "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\cases\digits.txt"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] FileParser$FileParserWorker.run() : Starting to parse "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\extended\pg1661.txt"
+[DEBUG] FileParser$FileParserWorker.run() : Finished parsing "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\cases\capitals.txt"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] FileParser$FileParserWorker.run() : Starting to parse "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\extended\pg2701.txt"
+[DEBUG] FileParser$FileParserWorker.run() : Finished parsing "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\cases\position.txt"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] FileParser$FileParserWorker.run() : Starting to parse "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\extended\rfc4301.txt"
+[DEBUG] FileParser$FileParserWorker.run() : Finished parsing "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\cases\symbols.txt"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] FileParser$FileParserWorker.run() : Starting to parse "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\extended\rfc791.txt"
+[DEBUG] FileParser$FileParserWorker.run() : Finished parsing "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\extended\rfc791.txt"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] FileParser$FileParserWorker.run() : Starting to parse "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\simple\pg22014a.txt"
+[DEBUG] FileParser$FileParserWorker.run() : Finished parsing "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\extended\pg11.txt"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] FileParser$FileParserWorker.run() : Starting to parse "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\simple\pg22014b.txt"
+[DEBUG] FileParser$FileParserWorker.run() : Finished parsing "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\extended\rfc4301.txt"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] FileParser$FileParserWorker.run() : Starting to parse "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\simple\pg22014c.txt"
+[DEBUG] FileParser$FileParserWorker.run() : Finished parsing "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\extended\pg1661.txt"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] FileParser$FileParserWorker.run() : Finished parsing "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\simple\pg22014c.txt"
+[DEBUG] WorkQueue$PoolWorker.run() : Waiting for work...
+[DEBUG] FileParser$FileParserWorker.run() : Starting to parse "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\subdir\a\b\c\d\findme.txt"
+[DEBUG] FileParser$FileParserWorker.run() : Finished parsing "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\simple\pg22014b.txt"
+[DEBUG] WorkQueue$PoolWorker.run() : Waiting for work...
+[DEBUG] FileParser$FileParserWorker.run() : Finished parsing "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\simple\pg22014a.txt"
+[DEBUG] WorkQueue$PoolWorker.run() : Waiting for work...
+[DEBUG] FileParser$FileParserWorker.run() : Finished parsing "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\subdir\a\b\c\d\findme.txt"
+[DEBUG] WorkQueue$PoolWorker.run() : Waiting for work...
+[DEBUG] FileParser$FileParserWorker.run() : Finished parsing "C:\Users\El Nene Drow\Documents\Homework\cs212_1\index\extended\pg2701.txt"
+[DEBUG] FileParser.parseFiles() : File parsing work complete.
+[DEBUG] WorkQueue$PoolWorker.run() : Waiting for work...
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex.callSearchIndex() : Still searching index...
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "c"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "e"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "d"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "a"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "b"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "b"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "f"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "e"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "g"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "d"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "h"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "c"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "i"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "f"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "j"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "g"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "k"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "k"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "l"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "j"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "m"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "h"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "n"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "i"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "o"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "l"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "p"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "n"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "q"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "q"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "r"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "m"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "s"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "o"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "t"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "r"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "u"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "u"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "t"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "w"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "a"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "x"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "x"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "y"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "y"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "z"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "z"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "a b"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "w"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "c d"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "s"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "e f"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "p"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "g h"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "g h"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "i j"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "a b"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "k l"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "e f"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "m n"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "k l"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "o p"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "i j"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "q r"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "q r"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "s t"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "v"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "v"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "o p"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "w x"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "u v"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "w x"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "u v"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "a b c"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "m n"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "d e f"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "y z"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "y z"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "g h i"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "s t"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "j k l"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "d e f"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "m n o"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "a b c"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "p q r"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "j k l"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "s t u"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "c d"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "v w x"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "v w x"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "g h i"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "m n o"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "e f g h"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "a b c d"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "i j k l"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "p q r"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "m n o p"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "i j k l"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "q r s t"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "s t u"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "u v w x"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "e f g h"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "a b c d e"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "m n o p"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "u v w x"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "f g h i j"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "k l m n o"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "a b c d"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "p q r s t"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "q r s t"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "u v w x y"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "k l m n o"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "a b c d e f"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "u v w x y"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "g h i j k l"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "f g h i j"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "m n o p q r"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "a b c d e"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "s t u v w x"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "g h i j k l"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "a b c d e f g"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "p q r s t"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "h i j k l m n"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "m n o p q r"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "o p q r s t u"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "s t u v w x"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "a b c d e f g h"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "a b c d e f"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "i j k l m n o p"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "h i j k l m n"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "q r s t u v w x"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "a b c d e f g"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "a b c d e f g h i"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "o p q r s t u"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "j k l m n o p q r"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "i j k l m n o p"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "a b c d e f g h i j"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "a b c d e f g h"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "k l m n o p q r s t"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "q r s t u v w x"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "0"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "0"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "1"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "1"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "2"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "2"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "3"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "3"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "4"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "4"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "5"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "5"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "6"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "6"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "7"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "7"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "8"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "8"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "9"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "9"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "0 1"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "0 1"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "2 3"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "2 3"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "4 5"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "4 5"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "6 7"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "6 7"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "8 9"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "8 9"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "0 1 2 3 4"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "0 1 2 3 4"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "5 6 7 8 9"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "a b c d e f g h i"
+[DEBUG] WorkQueue$PoolWorker.run() : Found work!
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "5 6 7 8 9"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Starting to search for queries "0 1 2 3 4 5 6 7 8 9"
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "j k l m n o p q r"
+[DEBUG] WorkQueue$PoolWorker.run() : Waiting for work...
+[DEBUG] WorkQueue$PoolWorker.run() : Waiting for work...
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "0 1 2 3 4 5 6 7 8 9"
+[DEBUG] WorkQueue$PoolWorker.run() : Waiting for work...
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "k l m n o p q r s t"
+[DEBUG] WorkQueue$PoolWorker.run() : Waiting for work...
+[DEBUG] SearchInvertedIndex$SearchWorker.run() : Finished searching for queries "a b c d e f g h i j"
+[DEBUG] SearchInvertedIndex.callSearchIndex() : Searching index complete.
+[DEBUG] WorkQueue$PoolWorker.run() : Waiting for work...
+[DEBUG] WorkQueue.shutdown() : Attempting shutdown of all threads.
+[DEBUG] WorkQueue$PoolWorker.run() : Shutdown detected.
+[DEBUG] WorkQueue$PoolWorker.run() : Thread terminating.
+[DEBUG] WorkQueue$PoolWorker.run() : Shutdown detected.
+[DEBUG] WorkQueue$PoolWorker.run() : Thread terminating.
+[DEBUG] WorkQueue$PoolWorker.run() : Shutdown detected.
+[DEBUG] WorkQueue$PoolWorker.run() : Thread terminating.
+[DEBUG] WorkQueue$PoolWorker.run() : Shutdown detected.
+[DEBUG] WorkQueue$PoolWorker.run() : Thread terminating.
+[DEBUG] WorkQueue$PoolWorker.run() : Shutdown detected.
+[DEBUG] WorkQueue$PoolWorker.run() : Thread terminating.

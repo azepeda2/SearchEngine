@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/azepeda2/!svn/ver/168/cs212/project3/src
+END
+WorkQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/azepeda2/!svn/ver/185/cs212/project3/src/WorkQueue.java
+END
+InvertedIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/azepeda2/!svn/ver/185/cs212/project3/src/InvertedIndex.java
+END
+ArgumentParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/azepeda2/!svn/ver/185/cs212/project3/src/ArgumentParser.java
+END
+FileParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/azepeda2/!svn/ver/185/cs212/project3/src/FileParser.java
+END
+Driver.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/azepeda2/!svn/ver/185/cs212/project3/src/Driver.java
+END
+MultiReaderLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/azepeda2/!svn/ver/185/cs212/project3/src/MultiReaderLock.java
+END
+SearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/azepeda2/!svn/ver/185/cs212/project3/src/SearchResult.java
+END
+SearchInvertedIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/azepeda2/!svn/ver/185/cs212/project3/src/SearchInvertedIndex.java
+END
+DirectoryTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/azepeda2/!svn/ver/185/cs212/project3/src/DirectoryTraverser.java
+END
